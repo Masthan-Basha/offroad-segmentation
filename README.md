@@ -3,7 +3,12 @@ Offroad-Segmentation is a deep learning project for semantic segmentation of off
 
 # Contributors:
 [Masthan-Basha](https://github.com/Masthan-Basha)
+
 [Abhishek-Kappala](https://github.com/abhishekKappala)
+
 [AshokKumar2525](https://github.com/AshokKumar2525)
+
 [rumanuddin-syed](https://github.com/rumanuddin-syed)
+
+
 [Maddana-Gunasekhar](https://github.com/Maddana-Gunasekhar)
